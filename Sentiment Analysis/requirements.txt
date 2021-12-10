@@ -1,0 +1,6 @@
+plotly==4.14.3
+streamlit==0.87.0
+requests==2.24.0
+pandas==1.0.5
+youtube_dl==2021.6.6
+beautifulsoup4==4.10.0
