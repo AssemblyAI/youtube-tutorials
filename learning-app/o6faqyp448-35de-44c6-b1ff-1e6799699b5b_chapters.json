@@ -1,0 +1,79 @@
+[
+    {
+        "summary": "Learn how to work out objective function gradients with respect to the word to vet algorithm. And say a teeny bit about how optimization works give you a sense of how amazing deep learning word vectors are.",
+        "headline": "Give you a sense of how amazing deep learning word vectors are.",
+        "gist": "Intro to the course",
+        "start": 5510,
+        "end": 102360
+    },
+    {
+        "summary": "Learn the Foundations A good deep understanding of the effect of modern methods for deep learning applied to NLP. Look at learning word meanings, dependency pausing machine translation. Question answering Understand the ability to build systems in PyTorch for some of the major problems in NLP.",
+        "headline": "Understand the ability to build systems in PyTorch for some of the major problems in NLP.",
+        "gist": "What will we teach",
+        "start": 103110,
+        "end": 358860
+    },
+    {
+        "summary": "A key question for artificial intelligence and human computer interaction is how to get computers to understand the information conveyed in human languages simultaneously. It's also the case that a lot of that knowledge is contained in language spread out across the books and webpages of the world in the last decade or so, and especially in the last few years with new methods of machine translation. We're now in a space where machine translation really works moderately well.",
+        "headline": "A key question for artificial intelligence and human computer interaction is how to get computers to understand the information conveyed in human languages simultaneously.",
+        "gist": "The role of language",
+        "start": 361390,
+        "end": 634060
+    },
+    {
+        "summary": "Gpt-3 is a huge new model that was released by OpenAI. It just predicts following words on the left. It can do an amazing range of things including many that are quite. To give just one example.",
+        "headline": "Gpt-3 is a huge new model that was released by OpenAI.",
+        "gist": "The new gpt - 3 model",
+        "start": 635230,
+        "end": 850300
+    },
+    {
+        "summary": "The way that meaning has normally been handled in natural language processing systems is to make use of resources like Dictionaries. Wordnet has been a greater resource for NLP, but it's also been highly deficient so it lacks a lot of nuance. The idea of meaning similarity is something that would be really useful to make progress on and where deep learning models excel.",
+        "headline": "The way that meaning has normally been handled in natural language processing systems is to make use of resources like dictionaries.",
+        "gist": "The meaning of a word",
+        "start": 853070,
+        "end": 2264090
+    },
+    {
+        "summary": "Learn how to make word vectors that minimize their average neglog likelihood. Work out the gradient the direction of downhill for this lost Gen.",
+        "headline": "Learn how to make word vectors that minimize their average neglog likelihood.",
+        "gist": "Making our word vectors",
+        "start": 2265610,
+        "end": 3594160
+    },
+    {
+        "summary": "Use these word vectors to do arithmetic in the vector space. That makes sense. You can do all sorts of fun analogies with this and they actually work. These word vectors went everywhere as a new representation that was so powerful for working out word meaning.",
+        "headline": "These word vectors went everywhere as a new representation that was so powerful for working out word meaning.",
+        "gist": "The analogy task",
+        "start": 3595570,
+        "end": 3912990
+    },
+    {
+        "summary": "Examine the distinction between the two factors per word. Find out how to work out the derivatives of context and center words. Use the Weekly Newsquiz to test your knowledge of stories you saw on cnncom.",
+        "headline": "Find out how to work out the derivatives of context and center words.",
+        "gist": "Distinction between the two factors per word",
+        "start": 3913040,
+        "end": 4123440
+    },
+    {
+        "summary": "Use this week's daily discussion to help students understand today's featured news stories. Today's daily discussion includes the following questions. If a word has two different meanings or multiple different meanings, can we still represent it as the same single vector.",
+        "headline": "If a word has two different meanings or multiple different meanings, can we still represent it as the same single vector.",
+        "gist": "Relationship between the word vectors",
+        "start": 4124610,
+        "end": 4346180
+    },
+    {
+        "summary": "Learn about speech recognition and learn about methods for building dialogue systems. The vast bulk of this class is working with text and doing various kinds of text analysis and understanding. In particular, it starts off with looking at building dialogue systems.",
+        "headline": "Learn about Speech Recognition and learn about Methods for Building Dialogue systems.",
+        "gist": "Take the speech class",
+        "start": 4364970,
+        "end": 4822540
+    },
+    {
+        "summary": "Stay tuned for more stuff on Word Vectors Use the Weekly Newsquiz to test your knowledge of stories you saw on cnncom.",
+        "headline": "Stay tuned for more stuff on word vectors.",
+        "gist": "Building word vectors",
+        "start": 4824890,
+        "end": 5061560
+    }
+]

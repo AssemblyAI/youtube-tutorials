@@ -1,0 +1,450 @@
+{
+    "status": "success",
+    "results": [
+        {
+            "count": 48,
+            "rank": 0.11,
+            "text": "word vectors",
+            "timestamps": [
+                {
+                    "start": 64932,
+                    "end": 65774
+                },
+                {
+                    "start": 76428,
+                    "end": 77234
+                },
+                {
+                    "start": 1664468,
+                    "end": 1665178
+                },
+                {
+                    "start": 1714916,
+                    "end": 1715794
+                },
+                {
+                    "start": 1744508,
+                    "end": 1745806
+                },
+                {
+                    "start": 1765244,
+                    "end": 1766194
+                },
+                {
+                    "start": 1802172,
+                    "end": 1803302
+                },
+                {
+                    "start": 1820292,
+                    "end": 1821182
+                },
+                {
+                    "start": 1894032,
+                    "end": 1894814
+                },
+                {
+                    "start": 2003064,
+                    "end": 2004218
+                },
+                {
+                    "start": 2010384,
+                    "end": 2011598
+                },
+                {
+                    "start": 2029272,
+                    "end": 2030102
+                },
+                {
+                    "start": 2038908,
+                    "end": 2040130
+                },
+                {
+                    "start": 2272900,
+                    "end": 2274210
+                },
+                {
+                    "start": 2280580,
+                    "end": 2281782
+                },
+                {
+                    "start": 2304220,
+                    "end": 2305326
+                },
+                {
+                    "start": 2475820,
+                    "end": 2476986
+                },
+                {
+                    "start": 2537624,
+                    "end": 2538598
+                },
+                {
+                    "start": 2542328,
+                    "end": 2543506
+                },
+                {
+                    "start": 2544800,
+                    "end": 2546014
+                },
+                {
+                    "start": 2551328,
+                    "end": 2552610
+                },
+                {
+                    "start": 2558012,
+                    "end": 2558758
+                },
+                {
+                    "start": 3395252,
+                    "end": 3396178
+                },
+                {
+                    "start": 3420560,
+                    "end": 3421710
+                },
+                {
+                    "start": 3450104,
+                    "end": 3450802
+                },
+                {
+                    "start": 3458792,
+                    "end": 3459502
+                },
+                {
+                    "start": 3470924,
+                    "end": 3471562
+                },
+                {
+                    "start": 3472582,
+                    "end": 3473314
+                },
+                {
+                    "start": 3479602,
+                    "end": 3480790
+                },
+                {
+                    "start": 3493970,
+                    "end": 3494878
+                },
+                {
+                    "start": 3499610,
+                    "end": 3500970
+                },
+                {
+                    "start": 3508992,
+                    "end": 3509582
+                },
+                {
+                    "start": 3528900,
+                    "end": 3529694
+                },
+                {
+                    "start": 3604960,
+                    "end": 3606030
+                },
+                {
+                    "start": 3897152,
+                    "end": 3897802
+                },
+                {
+                    "start": 4118184,
+                    "end": 4118798
+                },
+                {
+                    "start": 4130130,
+                    "end": 4130918
+                },
+                {
+                    "start": 4193230,
+                    "end": 4194234
+                },
+                {
+                    "start": 4264592,
+                    "end": 4265398
+                },
+                {
+                    "start": 4729180,
+                    "end": 4729962
+                },
+                {
+                    "start": 4852480,
+                    "end": 4853690
+                },
+                {
+                    "start": 4860184,
+                    "end": 4861290
+                },
+                {
+                    "start": 4903624,
+                    "end": 4904810
+                },
+                {
+                    "start": 4967696,
+                    "end": 4968970
+                },
+                {
+                    "start": 5000868,
+                    "end": 5001986
+                },
+                {
+                    "start": 5033532,
+                    "end": 5034218
+                },
+                {
+                    "start": 5050062,
+                    "end": 5051274
+                },
+                {
+                    "start": 5059660,
+                    "end": 5060418
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.11,
+            "text": "word vector learning",
+            "timestamps": [
+                {
+                    "start": 2678896,
+                    "end": 2680154
+                },
+                {
+                    "start": 5041930,
+                    "end": 5043218
+                }
+            ]
+        },
+        {
+            "count": 11,
+            "rank": 0.1,
+            "text": "context words",
+            "timestamps": [
+                {
+                    "start": 1348560,
+                    "end": 1349674
+                },
+                {
+                    "start": 1356828,
+                    "end": 1357966
+                },
+                {
+                    "start": 1737908,
+                    "end": 1738818
+                },
+                {
+                    "start": 1795572,
+                    "end": 1796422
+                },
+                {
+                    "start": 1863698,
+                    "end": 1864762
+                },
+                {
+                    "start": 2346944,
+                    "end": 2348250
+                },
+                {
+                    "start": 3924322,
+                    "end": 3925158
+                },
+                {
+                    "start": 3937154,
+                    "end": 3938086
+                },
+                {
+                    "start": 3986592,
+                    "end": 3987502
+                },
+                {
+                    "start": 4036710,
+                    "end": 4037722
+                },
+                {
+                    "start": 4880332,
+                    "end": 4881458
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "deep learning word vectors",
+            "timestamps": [
+                {
+                    "start": 75630,
+                    "end": 77234
+                }
+            ]
+        },
+        {
+            "count": 4,
+            "rank": 0.1,
+            "text": "other words",
+            "timestamps": [
+                {
+                    "start": 1452158,
+                    "end": 1452838
+                },
+                {
+                    "start": 1727132,
+                    "end": 1727862
+                },
+                {
+                    "start": 1887564,
+                    "end": 1888380
+                },
+                {
+                    "start": 5007324,
+                    "end": 5008150
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.1,
+            "text": "center words",
+            "timestamps": [
+                {
+                    "start": 1911636,
+                    "end": 1912560
+                },
+                {
+                    "start": 1929396,
+                    "end": 1930380
+                },
+                {
+                    "start": 3993300,
+                    "end": 3994270
+                }
+            ]
+        },
+        {
+            "count": 6,
+            "rank": 0.1,
+            "text": "word meaning",
+            "timestamps": [
+                {
+                    "start": 38724,
+                    "end": 39626
+                },
+                {
+                    "start": 44148,
+                    "end": 45086
+                },
+                {
+                    "start": 80940,
+                    "end": 81614
+                },
+                {
+                    "start": 209820,
+                    "end": 210806
+                },
+                {
+                    "start": 886772,
+                    "end": 887710
+                },
+                {
+                    "start": 3903740,
+                    "end": 3904630
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.1,
+            "text": "similar words",
+            "timestamps": [
+                {
+                    "start": 1574352,
+                    "end": 1577558
+                },
+                {
+                    "start": 3559840,
+                    "end": 3560582
+                },
+                {
+                    "start": 3564952,
+                    "end": 3565646
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "different context words",
+            "timestamps": [
+                {
+                    "start": 3986004,
+                    "end": 3987502
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "function words",
+            "timestamps": [
+                {
+                    "start": 4713412,
+                    "end": 4714070
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "positive words",
+            "timestamps": [
+                {
+                    "start": 3655700,
+                    "end": 3656718
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "word similarity",
+            "timestamps": [
+                {
+                    "start": 2132370,
+                    "end": 2133546
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "different center words",
+            "timestamps": [
+                {
+                    "start": 3993012,
+                    "end": 3994270
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "most words",
+            "timestamps": [
+                {
+                    "start": 4300790,
+                    "end": 4301814
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.1,
+            "text": "word signs",
+            "timestamps": [
+                {
+                    "start": 872888,
+                    "end": 873598
+                }
+            ]
+        }
+    ]
+}
