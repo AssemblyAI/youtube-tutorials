@@ -14,10 +14,11 @@ uploaded_file = st.file_uploader('Please upload a file')
 if uploaded_file is not None:
     st.audio(uploaded_file, start_time=st.session_state['start_point'])
     polling_endpoint = upload_to_AssemblyAI(uploaded_file)
-
+    
     status='submitted'
     while status != 'completed':
         polling_response = requests.get(polling_endpoint, headers=headers)
+        print(polling_response.json())
         status = polling_response.json()['status']
 
         if status == 'completed':
